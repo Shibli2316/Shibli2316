@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development, Core Python, Java, C, C++ JavaScript**
 
-<h3 align="left">Connect with me: ahmadrazashibli@gmail.com</h3>
+
 <p align="left">
 </p>
 
