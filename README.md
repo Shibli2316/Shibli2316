@@ -127,7 +127,9 @@
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/premium-photo/lofi-lonely-alone-sad-boy-kid-pondering-with-golden-hour-sunset-anime-manga-style-cozy-chill-relax_598925-8028.jpg?w=360"  />
+<div align="center">
+  <img height="200" src="https://img.freepik.com/premium-photo/lofi-lonely-alone-sad-boy-kid-pondering-with-golden-hour-sunset-anime-manga-style-cozy-chill-relax_598925-8028.jpg?w=360"  />
+</div>
 
 ###
 
