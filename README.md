@@ -13,7 +13,7 @@
 👨🏼‍🎓 A master’s student specializing in <strong>Artificial Intelligence.</strong><br>
 👨🏼‍💻 Passionate about <strong>web development, machine learning, cybersecurity,</strong> and <strong>IoT</strong>.<br>
 🛜 Working on my own projects involving Raspberry Pi and Arduino with some Machine Learning and <i>good interface</i> <br>
-📩 Lets connect: <a href="mailto:ahmadrazashibli@gmail.com">Mail</a>
+📩 Lets connect: <a href="mailto:ahmadrazashibli@gmail.com">Mail</a> <br>
 🌐 Visit me: <a href="https://shibli2316.github.io/First-Portfolio-Website/">Website</a>
 
 
