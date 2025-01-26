@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="550" src="https://github.com/Shibli2316/Shibli2316/blob/main/Shibli.png?raw=true"  />
+  <img height="450" src="https://github.com/Shibli2316/Shibli2316/blob/main/Shibli.png?raw=true"  />
 </div>
 
 ###
@@ -13,9 +13,8 @@
 👨🏼‍🎓 A master’s student specializing in <strong>Artificial Intelligence.</strong><br>
 👨🏼‍💻 Passionate about <strong>web development, machine learning, cybersecurity,</strong> and <strong>IoT</strong>.<br>
 🛜 Working on my own projects involving Raspberry Pi and Arduino with some Machine Learning and <i>good interface</i> <br>
-📩 Lets connect: <a href="mailto:ahmadrazashibli@gmail.com">
-        Mail
-      </a>
+📩 Lets connect: <a href="mailto:ahmadrazashibli@gmail.com">Mail</a>
+🌐 Visit me: <a href="https://shibli2316.github.io/First-Portfolio-Website/">Website</a>
 
 
 ###
